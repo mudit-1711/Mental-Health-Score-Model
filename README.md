@@ -88,4 +88,3 @@ http://127.0.0.1:2200/
 *(Alternatively, you can open the `index.html` file directly in your browser, and it will communicate with the backend server running on port 2200).*
 
 ---
-
